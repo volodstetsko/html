@@ -1,0 +1,27 @@
+h1{
+    color: blue;
+    background: darkgray;
+    text-align: center;
+}
+
+h2{
+    color: blue;
+    background: darkgray;
+    text-align: center;
+}
+
+p{
+    color: #1b5009;
+    background: #f6ea6f;
+}
+
+ul{
+    color: #c22d0c;
+    background: #6ff67a;
+}
+
+img{
+    width: 230px;
+    display: block;
+    margin: auto;
+}

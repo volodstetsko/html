@@ -1,0 +1,41 @@
+.card1{
+    height: 600px;
+    width: 400px;
+    font-family: sans-serif;
+    color: white;
+}
+
+.card11{
+    background: blue;
+    height: 30%;
+    font-size: 35px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card12{
+    height: 30%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    font-size: 15px
+}
+
+.card121{
+    background: cornflowerblue;
+    width: 31%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card13{
+    background: blue;
+    height: 40%;
+    font-size: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
